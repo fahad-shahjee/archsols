@@ -77,8 +77,6 @@
     <script src="assets/js/jquery.nice-select.min.js"></script>
     <script src="assets/js/jquery.marquee.min.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/jqueryui.js"></script>
-    <script src="assets/js/touchspin.js"></script>
     <script src="assets/js/odometer.min.js"></script>
 
     <!-- Parallax & Effects -->
@@ -86,8 +84,6 @@
     <script src="assets/js/parallax.min.js"></script>
     <script src="assets/js/parallax-scroll.js"></script>
     <script src="assets/js/cursor-bundle.js"></script>
-    <script src="assets/js/easing.min.js"></script>
-    <script src="assets/js/scrollspy.js"></script>
 
     <!-- Special plugins -->
     <script src="assets/js/plugin.js"></script>

@@ -30,7 +30,6 @@ require_once __DIR__ . '/gate.php'; // password lock while under construction
     <link rel="stylesheet" href="assets/css/custom-fonts.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/cursor.css">
-    <link rel="stylesheet" href="assets/css/jquery-ui.css">
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="stylesheet" href="assets/css/archsols.css">
 
@@ -64,8 +63,8 @@ require_once __DIR__ . '/gate.php'; // password lock while under construction
                 <div class="container mxw-1830">
                     <div class="header__wrap ul_li_between">
                         <div class="xb-header-logo">
-                            <a href="index.php" class="logo-one"><img src="assets/img/logo/logo-two.svg" alt="Archsols"></a>
-                            <a href="index.php" class="logo-two"><img src="assets/img/logo/logo-two.svg" alt="Archsols"></a>
+                            <a href="index.php" class="logo-one"><img src="assets/img/logo/logo-color.png" alt="Archsols"></a>
+                            <a href="index.php" class="logo-two"><img src="assets/img/logo/logo-color.png" alt="Archsols"></a>
                         </div>
                         <nav class="ar-main-nav" aria-label="Main menu">
                             <ul>
