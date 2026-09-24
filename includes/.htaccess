@@ -1,0 +1,2 @@
+# Shared PHP parts are included by the pages, never opened directly.
+Require all denied

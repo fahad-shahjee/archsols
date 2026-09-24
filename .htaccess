@@ -1,0 +1,11 @@
+# Archsols
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Old .html addresses -> .php pages (works in any folder)
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_URI} ^(.+)\.html$
+    RewriteRule \.html$ %1.php [R=301,L]
+</IfModule>
